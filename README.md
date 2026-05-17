@@ -4,8 +4,9 @@ Keeps your build naming and versioning organized with a toolbar panel
 and a custom editor window to adjust build version when building.
 
 ## **CONTENT**
-1. Toolbar panel that shows the current build number and date. Drop-down allows you to select the bump of build. Button opens build settings.
-2. <img width="352" height="125" alt="image" src="https://github.com/user-attachments/assets/fbeb2f19-f5a5-4686-9d8c-10390edb625c" />
+1. Toolbar panel that shows the current build number and date. Drop-down allows you to select the bump of build.
+2. Button Build that opens build settings.
+<img width="352" height="125" alt="image" src="https://github.com/user-attachments/assets/fbeb2f19-f5a5-4686-9d8c-10390edb625c" />
 
 3. Adds a new window when clicking Build that allows you to select the type/bump of build.
 <img width="520" height="444" alt="image" src="https://github.com/user-attachments/assets/45f3434f-bd49-435d-86a3-878413c4ac91" />
