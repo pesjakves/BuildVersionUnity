@@ -1,4 +1,4 @@
-# BuildVersionUnity
+# Build Version Bumper
 Utility for Versioning builds in Unity 6.3. 
 Keeps your build naming and versioning organized with a toolbar panel 
 and a custom editor window to adjust build version when building.
