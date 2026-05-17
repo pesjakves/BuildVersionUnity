@@ -5,6 +5,7 @@ and a custom editor window to adjust build version when building.
 
 <img width="768" height="194" alt="Snímek obrazovky 2026-05-17 135606" src="https://github.com/user-attachments/assets/765f9761-5acc-4cf9-83a7-7ab196fa20d6" />
 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 
 ## **CONTENT**
 1. Toolbar panel that shows the current build number and date. Drop-down allows you to select the bump of build.
