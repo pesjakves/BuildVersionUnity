@@ -1,5 +1,5 @@
 # BuildVersionUnity
-Utility for Versioning builds in Unity 6.3 . Keeps your builds organized.
+Utility for Versioning builds in Unity 6.3 . Keeps your build naming and versioning organized with a toolbar panel and a custom editor window.
 
 CONTENT
 1. Toolbar panel that shows the current build number and date. Drop-down allows you to select the bump of build. Button opens build settings.
