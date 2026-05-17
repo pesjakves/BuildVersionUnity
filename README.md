@@ -1,5 +1,6 @@
 # Build Version Bumper
-![Unity 6.3](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/Unity-6.3%20and%20above-white?style=flat&logo=unity&label=UNITY)
+
 Utility for Versioning builds in Unity 6.3. 
 Keeps your build naming and versioning organized with a toolbar panel 
 and a custom editor window to adjust build version when building.
